@@ -148,7 +148,7 @@
     "extra_networks_add_text_separator": " ",
     "sd_hypernetwork": "None",
     "gradio_theme": "gradio/base",
-    "theme_style": "Auto",
+    "theme_style": "Dark",
     "return_grid": true,
     "return_mask": false,
     "return_mask_composite": false,
