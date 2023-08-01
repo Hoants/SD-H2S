@@ -9,3 +9,4 @@ git clone https://github.com/Bing-su/Adetailer /content/SD-CSDM/extensions/Adeta
 git clone https://github.com/fkunn1326/openpose-editor /content/SD-CSDM/extensions/openpose-editor
 git clone https://github.com/nonnonstop/sd-webui-3d-open-pose-editor /content/SD-CSDM/extensions/sd-webui-3d-open-pose-editor
 git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete /content/SD-CSDM/extensions/a1111-sd-webui-tagcomplete
+git clone https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin
