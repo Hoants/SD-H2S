@@ -11,3 +11,4 @@ git clone https://github.com/nonnonstop/sd-webui-3d-open-pose-editor /content/SD
 git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete /content/SD-CSDM/extensions/a1111-sd-webui-tagcomplete
 git clone https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin
 git clone https://github.com/alemelis/sd-webui-ar
+git clone https://github.com/civitai/sd_civitai_extension
