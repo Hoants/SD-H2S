@@ -1,5 +1,5 @@
 git clone https://github.com/camenduru/sd-civitai-browser /content/SD-CSDM/extensions/sd-civitai-browser
-git clone https://github.com/camenduru/control /content/SD-CSDM/extensions/sd-webui-controlnet
+git clone https://github.com/Mikubill/sd-webui-controlnet /content/SD-CSDM/extensions/sd-webui-controlnet
 git clone https://github.com/deforum-art/deforum-for-automatic1111-webui /content/SD-CSDM/extensions/deforum-for-automatic1111-webui
 git clone https://github.com/camenduru/tunnels /content/SD-CSDM/extensions/tunnels
 git clone https://github.com/ngovinhcuong/ghepmat2 /content/SD-CSDM/extensions/ghepmat2
